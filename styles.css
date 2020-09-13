@@ -36,11 +36,15 @@ p {
 }
 
 a{
-  font-size: 2rem;
+  font-size: 1.3rem;
   color:  #2d4059;
   border-radius: 7px;
   text-decoration: none;
   background-color: #decdc3;
+  padding: 5px;
+}
+.anchor{
+  margin-top: 15px;
 }
 
 img {
